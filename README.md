@@ -1,3 +1,4 @@
-# curriculum-vitae by Cornelius 
-# yarn install
-# yarn start
+## Available Scripts
+
+### `yarn install`
+### `yarn start`
